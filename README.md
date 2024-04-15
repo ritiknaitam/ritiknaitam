@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ritik Naitam
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning B-Tech Degree in Data Science.
-- 💞️ I’m looking to collaborate on Analysis Project.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently persuing Engineerinng  B-Tech Degree in Computer Science and Engineering (Data Science).
+- 💞️ I’m looking to collaborate on Analysis, machine learning and AI Project.
 - 📫 How to reach me email - ritiknaitam70@gmail.com
 
 <!---
